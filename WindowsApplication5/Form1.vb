@@ -35,4 +35,14 @@
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
         Me.Hide()
     End Sub
+
+    Private Sub HelpToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles HelpToolStripMenuItem.Click
+        MsgBox("Made by PSN AppZ.")
+
+    End Sub
+
+    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
+        Me.Close()
+
+    End Sub
 End Class
