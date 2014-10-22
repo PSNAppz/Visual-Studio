@@ -37,7 +37,7 @@
     End Sub
 
     Private Sub HelpToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles HelpToolStripMenuItem.Click
-        MsgBox("Made by PSN AppZ.")
+        MsgBox("Made by PSN AppZ Inc . Open-Source Project.")
 
     End Sub
 
