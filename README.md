@@ -5,7 +5,7 @@ This is a webbrowser created in visual studio 13.The application
 is currently in a Beta stage i.e., it is still on development.You
 can see the changes of new updates below.
 
-*********************************************** **********UPDATES AND CHANGES*****************************************************
+ **********UPDATES AND CHANGES************
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Update 1.1.b
