@@ -6,7 +6,7 @@ is currently in a Beta stage i.e., it is still on development.You
 can see the changes of new updates below.
 
  **********UPDATES AND CHANGES************
-----------------------------------------------------------------------------------------------------------------------------------
+
 
 Update 1.1.b
 ------------
