@@ -1,4 +1,4 @@
 language: csharp
 solution: PSNAppZ.sln
 script:
-  - xbuild /p:VbcToolExe=vbnc.exe PSNAppZ.sln
+   - xbuild /p:VbcToolExe=vbnc.exe PSNAppZ.sln
